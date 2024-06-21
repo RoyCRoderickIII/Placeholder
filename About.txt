@@ -1,0 +1,25 @@
+This is a very massive undertaking seeing i have not coded a single line since VB 3......
+The Idea for this project is to take the idea of CMSswitcher (https://github.com/emerzon/cmswitcher) which is
+a very lightweight script to benchmark and run miners based off YIMP pool API for maximizing profit.
+And While keeping it as lightweight as possible adding certain aspects of
+RainbowMiner (https://github.com/RainbowMiner/RainbowMiner)
+
+Now both of those work fine, however the goal of this project is to Utilize Python and ADB to take the best of the 
+2 projects mentioned earlier and create a Lightweight,effecient Control Panel to which setup and use Phones for Mining.
+Now unlike both Projects the Idea here is for a entirely seperate Server/Client setup. RBM installs and runs
+powershell and everything that goes with it. Idea here is for one Device wither it be a PC, or phone or a PI to run
+manage and pass along instructions only to phones after the initial install. The idea is to use the least amount
+of resources on the phones to maximize mining profits.
+
+I will also be toying and playing with a idea i have been going back and forth with on how we consider profits in
+mining terms. Normally our profits are based off the value of what we are mining i.e  gaining 10 coins/token worth 
+.02 cents each gives us .20 cents. but if we stick to just the main coins/tokens that we are not going to rug pull,
+die out whatever the reason for the coin failing. We take and utilize lows in prices to maximize coin aquiring for
+later price increases. Thinking less about todays profit, and utilizing historic data to use this not to much for
+maximizing just profit but for aquiring of as many coins/tokens as possible with the least amount of effort.
+
+Using the above example if today i mine DOGE at .12 cents and i manage to aquire 2 DOGE today i have made a profit
+of .24 cents(not counting electricity cost's obviously). But If i see that say SHIB or RTM or even LTC is at a low
+price for the day,while DOGE is at a pretty steady cost. I may be able to utilize the low in LTC to aquire a higher
+portion at a hopefully in future higher profit return. Mind you All of this only works in Coins/tokens that are
+fairly established, youd need the historical data i.e prices for the last 30 days for example for this to work.

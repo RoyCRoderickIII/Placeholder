@@ -1,0 +1,19 @@
+This list Will serve as a Big Picture for the project.
+
+
+Seemless Installation of required files and librarys.
+
+python3, pip, adb 
+
+
+Connection through ADB to devices allow for control and installation of files and managaging of miners.
+
+
+Full benchmarking capabilities utilizing multi threaded and single threaded benchmarks to maximize lets be honest
+our already minuim profits.
+
+utilizing the YIMP pool API and looking into otherways to aquire most reliable figures for hasrates,blocks, etc
+to help further maximize profits.
+
+Currently the CMswitcher only supported the CPUminer-opt and multi variants, would like to add as many miner 
+variants as possible utilizing any ARM optimizations thay may further benifit profits.
